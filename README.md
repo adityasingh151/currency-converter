@@ -13,7 +13,7 @@ Currency Converter is a web application that allows users to convert INR (Indian
 
 ## Demo
 
-Check out the live demo [here]().
+Check out the live demo [here](https://currency-converter-smoky-gamma.vercel.app/).
 
 ## Installation
 
